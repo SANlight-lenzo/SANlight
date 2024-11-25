@@ -1,0 +1,126 @@
+body {
+    font-family: cursive;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #2A2A2A;
+    .edu-au-vic-wa-nt-pre-education-button {
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+    font-optical-sizing: auto;
+    font-weight: 500; /* Example weight */
+    font-style: normal;
+    font-size: larger;
+    }
+}
+
+header {
+    background: #212A37;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.explanation {
+    margin-right: 250px;
+    padding: 50px;
+    font-size: large;
+}
+
+
+.body {
+    margin-right: 250px;
+    padding: 50px;
+    font-size: large;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+
+#explaination {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    font-size: large;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background:  #212124;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+#Introduction {
+    text-align: center;
+}
+
+
+.CodeEditor {
+    display: flex;
+}
+
+#logo {
+    width: 100px;
+    height: 100px;
+}
+
+.Catch-Phrase {
+    display: flex;
+    justify-content: center;
+    color: #F0F8FF;
+}
+
+.SANlight {
+    margin-right: 30px;
+    text-shadow: #ffffff 5px -5px 5px;
+    font-size: xx-large;
+}
+
+.Head {
+    text-align: center;
+}
+
+.favicon {
+    margin-right: 100px;
+}
+
+#type {
+    border-bottom: #212124 solid 3px;
+}
+
+#websafe-fonts {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 500px;
+    margin: 0px 60px opx 60px;
+    border-radius: 1%;
+}
+
+.code import {
+    display: flex;
+    justify-content: center;
+}
+
+
+.tag {
+    text-align: center;
+}
+
+footer {
+    color: #F0F8FF;
+    font-family: cursive;
+}
